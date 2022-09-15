@@ -1,2 +1,4 @@
-# Museo-de-imagenes-colombia
-Galeria de Imagenes de Colombia
+# Galeria de Imagenes HTML + CSS PURO
+
+
+  Galeria de imagens utilizando  HTML e CSS3 puro.
